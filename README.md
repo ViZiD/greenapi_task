@@ -1,10 +1,12 @@
 # How to run
 # yarn
-yarn install__
+yarn install
+
 yarn start
 
 # npm
-npm install__
+npm install
+
 npm start
 
 # ;-)
